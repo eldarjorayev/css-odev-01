@@ -1,0 +1,110 @@
+.body {
+    color: white;
+    background-image: url(/web/19981202230410im_/http://www.google.com/alpha.jpg);
+    display: block;
+    margin: 8px;
+}
+.form{
+    display: block;
+    margin-top: 0em;
+    margin-block-end: 1em;
+}
+.img {
+    width: 351px;
+    aspect-ratio: auto 351 / 113;
+    height: 113px;
+}
+.center {
+    text-align: -webkit-center;
+}
+.center1 {
+    display: block;
+    text-align: -webkit-center;
+}
+
+
+.table {
+    border-top-width: 0px;
+    border-right-width: 0px;
+    border-bottom-width: 0px;
+    border-left-width: 0px;
+    width: 90%;
+}
+
+.table1 {
+    display: table;
+    border-collapse: separate;
+    box-sizing: border-box;
+    text-indent: initial;
+    white-space: normal;
+    line-height: normal;
+    font-weight: normal;
+    font-size: medium;
+    font-style: normal;
+    color: -internal-quirk-inherit;
+    text-align: start;
+    border-spacing: 2px;
+    border-color: grey;
+    font-variant: normal;
+
+}
+.tbody {
+    display: table-row-group;
+    vertical-align: middle;
+    border-color: inherit;
+}
+
+.tr {
+    display: table-row;
+    vertical-align: inherit;
+    border-color: inherit;
+}
+
+.td {
+    background-color: rgb(238, 238, 238);
+    display: table-cell;
+    vertical-align: inherit;
+}
+.td1-center {
+    display: block;
+    text-align: -webkit-center;
+}
+.form1 {
+display: block;
+    margin-top: 0em;
+    margin-block-end: 1em;
+    }
+.tr2 {
+    display: table-row;
+    vertical-align: inherit;
+    border-color: inherit;
+}
+
+.td2-tr2 {
+    width: 37%;
+    background-color: rgb(126, 229, 218);
+}
+
+.center5 {
+display: block;
+text-align: -webkit-center;
+}
+.a-webkit-any-link {
+    color: -webkit-link;
+    cursor: pointer;
+    text-decoration: underline;
+}
+
+.center-td2-tr4 {
+        display: block;
+        text-align: -webkit-center;
+    }
+
+.td2-tr4 {
+    background-color: rgb(112, 204, 194);
+    display: table-cell;
+    vertical-align: inherit;
+}
+.font {
+    font-size: small;
+}
